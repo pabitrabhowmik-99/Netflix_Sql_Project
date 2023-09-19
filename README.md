@@ -1,5 +1,5 @@
 # Netflix_Sql_Project
-Netflix Movies and TV Shows data analysis using SQL Server
+# Netflix Movies and TV Shows data analysis using SQL Server
 Here I solved some business queries related to the dataset.
 #QUERIES:
 ---------------------------------------------------
