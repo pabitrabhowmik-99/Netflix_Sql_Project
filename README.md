@@ -1,7 +1,7 @@
-# Netflix_Sql_Project
 # Netflix Movies and TV Shows data analysis using SQL Server
-# Here I solved some business queries related to the dataset.
-#QUERIES:
+
+Here I solved some business queries related to the dataset.
+QUERIES:
 ---------------------------------------------------
 Total Numbers Of TV Shows and Movies in the dataset
 
